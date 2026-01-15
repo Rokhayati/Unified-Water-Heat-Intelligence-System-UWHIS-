@@ -5,16 +5,16 @@
 UWHIS is an AI-driven platform that integrates water management and urban heat mitigation into a unified intelligent system. This prototype demonstrates how AI, IoT, and renewable energy can work together to solve the UAE's critical water scarcity and urban heat challenges.
 
 ## 🚀 Quick Start
-1. **Install dependencies:**
+1. **to Install dependencies:**
    ```bash
    pip install -r requirements.txt
 
-2. **Run the application**
+2. **to Run the application**
 
 bash
 streamlit run app.py
 
-3. **Open your browser to http://localhost:8501**
+3. **then Open the browser to http://localhost:8501**
 
  **🛠️ Technology Stack**
 Frontend: Streamlit
@@ -42,15 +42,16 @@ UWHIS_Demo/
     ├── scenarios.py          # Demo scenarios and logic
     └── ui_text.md            # UI content and narratives
 
-## 👥 Team Roles
 
- **Project Coordinator: Daba Rokhaya** - Application architecture & integration
+ **Developer : Daba Rokhaya** 
+ 
+**Coordination:** - Application architecture & integration
 
-**Data & AI: [Role A]** - model.py, synthetic_data.csv
+**Data & AI:** - model.py, synthetic_data.csv
 
-**Visualization: [Role B]** - map_viz.py, charts.py
+**Visualization:** - map_viz.py, charts.py
 
-**Scenario Design: [Role C]** - scenarios.py, ui_text.md
+**Scenario Design:** - scenarios.py, ui_text.md
 
 ## 🎨 Features Demonstrated**
 
