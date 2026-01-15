@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+folium
+scikit-learn
+numpy
+altairstreamlit-folium>=0.15.0
